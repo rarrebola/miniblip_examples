@@ -1,0 +1,2 @@
+Mi objetivo consiste crear un tensionímetro. Por medio de unos diodos conectados a la placa, mediré la tensión arterial de la persona conectada a los diodos.
+Dependiendo de la tensión arterial de la persona conectada a la placa, se encenderán una serie de leds.
